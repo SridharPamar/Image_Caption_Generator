@@ -6,7 +6,6 @@ Here's the updated README:
 
 Welcome to the **Image Caption Generator** project! This repository showcases an innovative deep learning model that seamlessly blends Convolutional Neural Networks (CNNs) and Long Short-Term Memory (LSTM) networks to create descriptive captions for images. 
 
-![Image Caption](ex.png)
 
 
 ## 🔥 Key Features
